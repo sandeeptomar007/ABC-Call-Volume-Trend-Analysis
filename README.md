@@ -7,7 +7,7 @@ The project aims to analyze the dataset of an ABC company's inbound call center 
 The objectives of the project are to calculate the average call time duration for incoming calls in each time bucket, visualize the total volume of calls over
 time, and propose a manpower plan to reduce the abandon rate to 10% during specific time periods.
 
-AdditioTECH STACK USEDnally, the project involves addressing the issue of unanswered calls during the night and proposing a manpower plan for that time period as well.
+Additionally, the project involves addressing the issue of unanswered calls during the night and proposing a manpower plan for that time period as well.
 
 ## Approach
 * Import the dataset into Excel Sheets.
